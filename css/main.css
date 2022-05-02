@@ -166,6 +166,8 @@ header .pager-mo,.pager-pc{display: none;}
 .design-box {width: 80%; max-width: 500px; margin: auto; height: 350px; overflow: scroll; margin-top: 60px;}
 
 .design_info{ width: 80%;  height: 200px; margin: 30px auto;}
+.design_info p:nth-child(2){font-size: 14px;}
+.design_info p:nth-child(3){margin-top: 10px; font-size: 14px;}
 .design h4{ position: relative;}
 
 .popup_wrap .link_btn {position: absolute;right: 20px;bottom: 30px;text-align: center;}
